@@ -26,3 +26,17 @@ ipython nbconvert --to html FILE.ipynb
 for each of the notebooks, where ``FILE.ipynb`` is the notebook you want to convert. Then you can convert the HTML files to PDFs with your favorite web browser.
 
 **Important: Please make sure that the submitted notebooks have been run and the cell outputs are visible.**
+
+
+
+# Notes
+
+## KNN
+
+[Distance Matrix Vectorization Trick](https://medium.com/dataholiks-distillery/l2-distance-matrix-vectorization-trick-26aa3247ac6c)
+
+[Find N Min Index Efficiently](https://stackoverflow.com/questions/16817948/i-have-need-the-n-minimum-index-values-in-a-numpy-array )
+
+[Find most frequent element](https://stackoverflow.com/questions/6252280/find-the-most-frequent-number-in-a-numpy-vector )
+
+[Merge Sort for breaking ties](https://stackoverflow.com/questions/42896453/can-numpy-argsort-return-lower-index-for-ties)
